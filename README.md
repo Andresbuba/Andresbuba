@@ -47,8 +47,8 @@ Automatización del scraping de webs como Idealista para obtener datos de vivien
 ---
 
 ## 📫 Contacto
-- 💼 [LinkedIn](#)  
-- 🐙 [GitHub](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-sanchez-848070322/)  
+- 🐙 [GitHub](https://github.com/Andresbuba) 
 
 ---
 
